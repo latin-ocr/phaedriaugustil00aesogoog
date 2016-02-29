@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phaedriaugustil00aesogoog_0038.png"; bbox 0 0 2678 3978; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 409 1271 841 1333">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 409 1271 841 1333">
+     <span class='ocr_line' id='line_1_1' title="bbox 409 1271 841 1333; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 409 1273 577 1333; x_wconf 80' lang='lat' dir='ltr'>P11A</span> <span class='ocrx_word' id='word_1_2' title='bbox 618 1271 841 1330; x_wconf 82' lang='lat' dir='ltr'>EI)R1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 348 1451 902 1512">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 348 1451 902 1512">
+     <span class='ocr_line' id='line_1_2' title="bbox 348 1451 902 1512; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 348 1451 902 1512; x_wconf 79' lang='lat' dir='ltr'><strong>AUGUSTILIBERTI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 170 1602 1222 1741">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 170 1602 1222 1741">
+     <span class='ocr_line' id='line_1_3' title="bbox 170 1602 1222 1741; baseline -0.003 -7"><span class='ocrx_word' id='word_1_4' title='bbox 170 1633 597 1739; x_wconf 78' lang='lat' dir='ltr'>FABULARUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 642 1631 1088 1741; x_wconf 75' lang='lat' dir='ltr'>AEsoplAflUM</span> <span class='ocrx_word' id='word_1_6' title='bbox 1218 1602 1222 1612; x_wconf 82' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 313 1870 743 1939">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 313 1870 743 1939">
+     <span class='ocr_line' id='line_1_4' title="bbox 313 1870 743 1939; baseline -0.009 -6"><span class='ocrx_word' id='word_1_7' title='bbox 313 1905 321 1923; x_wconf 49' lang='grc' dir='ltr'>κ</span> <span class='ocrx_word' id='word_1_8' title='bbox 524 1870 743 1939; x_wconf 53' lang='lat' dir='ltr'>Lfflsslw</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1344 3978">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1344 3978">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1344 3978; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1344 3978; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
